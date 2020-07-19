@@ -14,7 +14,13 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    // "paths": {
+    //   "multi-select-dropdown": [
+    //     "dist/multi-select-dropdown/multi-select-dropdown",
+    //     "dist/multi-select-dropdown"
+    //   ]
+    // }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,

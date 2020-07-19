@@ -1,0 +1,15 @@
+{
+  "name": "multi-select-dropdown",
+  "version": "0.0.1",
+  "repository": "wadkarsatish/multi-select-dropdown",
+  "publisher":"Satish Wadkar",
+  "displayName": "multi-select-dropdown",
+  "peerDependencies": {
+    "@angular/common": "^9.1.11",
+    "@angular/core": "^9.1.11",
+    "bootstrap": "^4.5.0"
+  },
+  "dependencies": {
+    "tslib": "^1.10.0"
+  }
+}
