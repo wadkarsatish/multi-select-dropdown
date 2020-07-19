@@ -1,15 +1,26 @@
 {
-  "name": "multi-select-dropdown",
-  "version": "0.0.1",
-  "repository": "wadkarsatish/multi-select-dropdown",
-  "publisher":"Satish Wadkar",
+  "name": "multiple-options-select-dropdown",
+  "version": "1.0.1",
+  "description": "A simple component which allows to select mutliple options from dropdown",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wadkarsatish/multi-select-dropdown.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wadkarsatish/multi-select-dropdown/issues"
+  },
+  "homepage": "https://github.com/wadkarsatish/multi-select-dropdown",
+  "keywords": [
+    "angular",
+    "multi-select-dropdown",
+    "typescript",
+    "drop-down"
+  ],
+  "author": "Satish Wadkar",
   "displayName": "multi-select-dropdown",
   "peerDependencies": {
-    "@angular/common": "^9.1.11",
-    "@angular/core": "^9.1.11",
-    "bootstrap": "^4.5.0"
-  },
-  "dependencies": {
-    "tslib": "^1.10.0"
+    "@angular/common": "^8.0.0",
+    "@angular/core": "^8.0.0",
+    "bootstrap": "^4.0.0"
   }
 }
