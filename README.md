@@ -1,4 +1,28 @@
-# LibraryDemo
+# Multi Select Dropdown
+
+Hey Guys, This is the first attempt to create Angular library. There are many more changes has to be done.
+
+- Allows to select multiple values
+- Filter the available options
+- Show selected options
+- Limit the selected shows options. etc.
+  
+## Configuration
+
+```sh
+export interface IMultiSelectConfig {
+    keyField: string;
+    valueField: string;
+    data: any[];
+    selectedItems?: any[];
+    selectionLimit?: number;
+    showFilter?: boolean;
+    filterPlaceholder?: string;
+    disabled?: boolean;
+}
+```
+
+- Still more features to be added😊
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
 
